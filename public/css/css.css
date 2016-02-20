@@ -1,0 +1,114 @@
+.img20x20 {
+	max-height: 20px;
+	max-width: 20px;
+}
+
+.img80x80 {
+	max-height: 80px;
+	max-width: 80px;
+	margin: auto;
+}
+
+.img-primary {	
+	max-width: 80%;
+	max-height: 120px;
+	margin: auto;	
+}
+
+.img-secu {
+	max-width: 96px;
+	max-height: 96px;
+	margin: auto;
+	padding: 12px;
+}
+
+#portada {	
+	background-color: white;
+	font-size: 48px;
+}
+
+.jumbo {
+	background-color: rgba(68, 68, 68, 0.4);
+	width: 68%;
+	margin: auto;
+}
+
+#txt-jumbo {
+	color: #fff;
+}
+
+.img-portada {
+	height: 300px;
+	width: 600px;
+}
+
+.cabecera{
+	background-color: gray;
+	color: white;
+	height: 50px;
+	text-align: center;
+	border-radius: 20px 20px 0px 0px;
+}
+
+.contenido {
+	border: 1px solid gray;
+	padding: 12px;
+	border-radius: 0px 0px 20px 20px;
+}
+
+.texto-ppl {
+	text-align: justify;
+}
+
+#my-panel-header {
+	background-color: #009788;
+	border: solid #00BB88 1px;
+	color: #fff;
+	box-shadow: -5px 5px #007788;
+}
+
+#my-panel-body {
+	
+}
+
+#nav {
+	background-color: #fff;
+}
+
+.footer {
+	background-color: #444444;
+	text-align: center;
+	vertical-align: middle;
+	border: solid 1px #dcdcdc;
+	height: 80px;
+	width: 100%;
+	color: #fff;
+}
+
+.lato {
+    font-family: 'Lato';
+}
+
+.bangers {
+	font-family: 'Bangers', cursive;
+}
+
+.marvel {
+	font-family: 'Marvel', sans-serif;
+}
+
+.lobster {
+	font-family: 'Lobster', cursive;
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.fsSM {
+	font-size: 17px;
+}
+
+.fsM {
+	font-size: 20px;
+}
