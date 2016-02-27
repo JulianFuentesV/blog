@@ -55,7 +55,7 @@
 		<div class="text-center">@yield('render')</div>
 		<br><br>
 		<footer class="footer">
-			<h1 class="marvel fsM text-center">Todos los derechos reservados &copy CodigoJFV 2016.</h1>
+			<h1 class="marvel fsM text-center">Todos los derechos reservados &copy; CodigoJFV 2016.</h1>
 		</footer>
 	</div>
 	@yield('js')	

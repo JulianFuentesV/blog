@@ -1,6 +1,6 @@
 @extends('front.template.main')
 @section('title', 'Home')
-@section('article_title', 'Articulos recientes:')
+@section('article_title', 'Art&iacute;culos recientes:')
 
 @section('content')
    @foreach($articles as $article)
@@ -39,7 +39,7 @@
 @section('content2')
     <div class="panel panel-primary">
         <div>
-            <h2 class="text-center marvel">Categorias</h2>
+            <h2 class="text-center marvel">Categor&iacute;as</h2>
         </div>
         <div class="list-group lato">
             @foreach($categories as $category)

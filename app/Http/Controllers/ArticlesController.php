@@ -56,7 +56,7 @@ class ArticlesController extends Controller
         if ($request->file('image')) {        
             $file = $request->file('image');
             $name = 'codigojfv_'.time().'.'.$file->getClientOriginalExtension();
-            $path = public_path().'/images/articles/';
+            $path = '/images/articles/';
             $file->move($path, $name);
         }
 
